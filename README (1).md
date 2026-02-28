@@ -105,17 +105,6 @@ Performed using Excel + Power Query:
 
 ---
 
-## 📂 **Project Files Included**
-
-| File | Description |
-|------|-------------|
-| `Project 2.xlsx` | Full Excel workbook including dashboards & cleaned dataset |
-| `Screenshot 2026-02-28 142244.png` | Store Dashboard preview |
-| `Screenshot 2026-02-28 142320.png` | Time-frame Dashboard preview |
-| `Screenshot 2026-02-28 142344.png` | Profile View dashboard preview |
-
----
-
 ## 📥 **Download the Full Project**
 
 Click the file in the repository to download:  
